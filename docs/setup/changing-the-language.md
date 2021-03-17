@@ -87,8 +87,11 @@ as [documented here][2]._
 
 ### Site language selector
 
-[:octicons-file-code-24: Source][3] ·
-:octicons-beaker-24: Experimental
+[:octicons-file-code-24: Source][3]
+--8<--
+separator.txt
+experimental.txt
+--8<--
 
 If your documentation is available in multiple languages, a _language selector_
 can be added to the header next to the search bar. Alternate languages can be

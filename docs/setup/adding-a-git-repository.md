@@ -74,8 +74,11 @@ Some popular choices:
 
 ### Latest release
 
-[:octicons-file-code-24: Source][5] ·
-[:octicons-heart-fill-24:{ .mdx-heart } Insiders only][5]{ .mdx-insiders }
+[:octicons-file-code-24: Source][5]
+--8<--
+separator.txt
+insiders_only.txt
+--8<--
 
 The visual appearance of the repository link has been improved as part of
 [Insiders][5], and will now automatically include the latest release tag which

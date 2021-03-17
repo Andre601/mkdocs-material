@@ -183,8 +183,11 @@ _Click on a tile to change the accent color_:
 
 ### Color palette toggle
 
-[:octicons-file-code-24: Source][6] ·
-[:octicons-heart-fill-24:{ .mdx-heart } Insiders only][6]{ .mdx-insiders }
+[:octicons-file-code-24: Source][6]
+--8<--
+separator.txt
+insiders_only.txt
+--8<--
 
 [Insiders][6] can easily add multiple color palettes, including a [scheme][8],
 [primary][9] and [accent][10] color each, and let the user choose. A color

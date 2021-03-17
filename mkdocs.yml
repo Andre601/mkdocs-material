@@ -83,8 +83,8 @@ plugins:
         releases/changelog.md: changelog.md
         setup/adding-social-links.md: setup/setting-up-the-footer.md
         sponsorship.md: insiders.md
-  - minify:
-      minify_html: true
+  #- minify:
+  #    minify_html: true
 
 # Customization
 extra:
@@ -141,6 +141,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.snippets:
+      base_path: docs/assets/_snippets
 
 # Page tree
 nav:
@@ -168,6 +170,7 @@ nav:
     - Adding a git repository: setup/adding-a-git-repository.md
     - Adding a comment system: setup/adding-a-comment-system.md
   - Reference:
+    - Features: reference/features.md
     - Abbreviations: reference/abbreviations.md
     - Admonitions: reference/admonitions.md
     - Buttons: reference/buttons.md

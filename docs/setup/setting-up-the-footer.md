@@ -105,8 +105,11 @@ copyright: Copyright &copy; 2016 - 2020 Martin Donath
 
 ### Remove generator
 
-[:octicons-file-code-24: Source][4] ·
-[:octicons-heart-fill-24:{ .mdx-heart } Insiders only][4]{ .mdx-insiders }
+[:octicons-file-code-24: Source][3]
+--8<--
+separator.txt
+insiders_only.txt
+--8<--
 
 The footer displays a _Made with Material for MkDocs_ notice to denote how
 the site was generated. The notice can be removed with the following setting
@@ -116,8 +119,6 @@ via `mkdocs.yml`:
 extra:
   generator: false
 ```
-
-  [4]: ../insiders.md
 
 ## Customization
 

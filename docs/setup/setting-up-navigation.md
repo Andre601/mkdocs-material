@@ -17,8 +17,11 @@ and its flag-ship feature: [instant loading][3].
 
 ### Instant loading
 
-[:octicons-file-code-24: Source][4] ·
-:octicons-unlock-24: Feature flag
+[:octicons-file-code-24: Source][4]
+--8<--
+separator.txt
+feature_flag.txt
+--8<--
 
 When _instant loading_ is enabled, clicks on all internal links will be
 intercepted and dispatched via [XHR][5] without fully reloading the page. Add
@@ -43,9 +46,13 @@ _Material for MkDocs is the only MkDocs theme offering this feature._
 
 ### Anchor tracking
 
-[:octicons-file-code-24: Source][9] ·
-:octicons-unlock-24: Feature flag ·
-[:octicons-heart-fill-24:{ .mdx-heart } Insiders only][9]{ .mdx-insiders }
+[:octicons-file-code-24: Source][9]
+--8<--
+separator.txt
+feature_flag.txt
+separator.txt
+insiders_only.txt
+--8<--
 
 When _anchor tracking_ is enabled, the URL in the address bar is automatically
 updated with the active anchor as highlighted in the table of contents. Add the
@@ -59,7 +66,8 @@ theme:
 
 ### Navigation tabs
 
-[:octicons-file-code-24: Source][6] · :octicons-unlock-24: Feature flag
+[:octicons-file-code-24: Source][6] ·
+--8<-- "feature_flag.txt"
 
 When _tabs_ are enabled, top-level sections are rendered in a menu layer below
 the header for viewports above `1220px`, but remain as-is on mobile.[^1] Add
@@ -94,10 +102,15 @@ theme:
 
 #### Sticky navigation tabs
 
-[:octicons-file-code-24: Source][9] ·
-:octicons-unlock-24: Feature flag ·
-:octicons-beaker-24: Experimental ·
-[:octicons-heart-fill-24:{ .mdx-heart } Insiders only][9]{ .mdx-insiders }
+[:octicons-file-code-24: Source][9]
+--8<--
+separator.txt
+feature_flag.txt
+separator.txt
+experimental.txt
+separator.txt
+insiders_only.txt
+--8<--
 
 When _sticky tabs_ are enabled, navigation tabs will lock below the header and
 always remain visible when scrolling down. Just add the following two feature
@@ -125,7 +138,7 @@ theme:
 ### Navigation sections
 
 [:octicons-file-code-24: Source][12] ·
-:octicons-unlock-24: Feature flag
+--8<-- "feature_flag.txt"
 
 When _sections_ are enabled, top-level sections are rendered as groups in the
 sidebar for viewports above `1220px`, but remain as-is on mobile. Add the
@@ -155,7 +168,7 @@ items.
 ### Navigation expansion
 
 [:octicons-file-code-24: Source][12] ·
-:octicons-unlock-24: Feature flag
+--8<-- "feature_flag.txt"
 
 When _expansion_ is enabled, the left sidebar will expand all collapsible
 subsections by default, so the user doesn't have to open subsections manually.
@@ -179,10 +192,15 @@ theme:
 
 ### Section index pages
 
-[:octicons-file-code-24: Source][9] ·
-:octicons-unlock-24: Feature flag ·
-:octicons-beaker-24: Experimental ·
-[:octicons-heart-fill-24:{ .mdx-heart } Insiders only][9]{ .mdx-insiders }
+[:octicons-file-code-24: Source][9]
+--8<--
+separator.txt
+feature_flag.txt
+separator.txt
+experimental.txt
+separator.txt
+insiders_only.txt
+--8<--
 
 When _section index pages_ are enabled, documents can be directly attached to
 sections, which is particularly useful for providing overview pages. Add the
@@ -232,9 +250,13 @@ Note that it doesn't rely on third-party plugins[^2]._
 
 ### Back-to-top button
 
-[:octicons-file-code-24: Source][9] ·
-:octicons-unlock-24: Feature flag ·
-[:octicons-heart-fill-24:{ .mdx-heart } Insiders only][9]{ .mdx-insiders }
+[:octicons-file-code-24: Source][9]
+--8<--
+separator.txt
+feature_flag.txt
+separator.txt
+insiders_only.txt
+--8<--
 
 A _back-to-top button_ can be shown when the user, after scrolling down, starts
 to scroll up again. It's rendered in the lower right corner of the viewport. Add
@@ -350,7 +372,7 @@ them at your own risk._
 #### Navigation integration
 
 [:octicons-file-code-24: Source][25] ·
-:octicons-unlock-24: Feature flag
+--8<-- "feature_flag.txt"
 
 When _integration_ is enabled, the table of contents is rendered as part of
 the navigation for viewports above `1220px`, but remains as-is on mobile. Add
