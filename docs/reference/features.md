@@ -11,47 +11,53 @@ This page lists all available features with a short summary of what they are use
 
 The features listed here are available with the latest version of Material for MkDocs.
 
+### Header
+
+- #### [Automatic hiding][1]
+
+  [1]: ../../setup/setting-up-the-header/#automatic-hiding
+
 ### Naviagion
 
-- #### [Instant Loading][1]
-- #### [Tabs][2]
-- #### [Sections][3]
-- #### [Expansion][4]
+- #### [Instant Loading][2]
+- #### [Tabs][3]
+- #### [Sections][4]
+- #### [Expansion][5]
 
-[1]: ../../setup/setting-up-navigation/#instant-loading
-[2]: ../../setup/setting-up-navigation/#navigation-tabs
-[3]: ../../setup/setting-up-navigation/#navigation-sections
-[4]: ../../setup/setting-up-navigation/#navigation-expansion
+  [2]: ../../setup/setting-up-navigation/#instant-loading
+  [3]: ../../setup/setting-up-navigation/#navigation-tabs
+  [4]: ../../setup/setting-up-navigation/#navigation-sections
+  [5]: ../../setup/setting-up-navigation/#navigation-expansion
 
 ### Table of Contents
 
-- #### [Naviagion Integration][5]
+- #### [Naviagion Integration][6]
 
-[5]: ../../setup/setting-up-navigation/#navigation-integration
+  [6]: ../../setup/setting-up-navigation/#navigation-integration
 
 ## Insiders Only
-These features are currently only available through the [Insiders][6] programm.
+These features are currently only available through the [Insiders][7] programm.
 
-[6]: ../../insiders
+  [7]: ../../insiders
 
 ### Navigation Extras
 
-- #### [Anchor Tracking][7]
-- #### [Sticky Naviagion Tabs][8]
-- #### [Section Index Pages][9]
-- #### [Back to top Button][10]
+- #### [Anchor Tracking][8]
+- #### [Sticky Naviagion Tabs][9]
+- #### [Section Index Pages][10]
+- #### [Back to top Button][11]
 
-[7]: ../../setup/setting-up-navigation/#anchor-tracking
-[8]: ../../setup/setting-up-navigation/#sticky-navigation-tabs
-[9]: ../../setup/setting-up-navigation/#section-index-pages
-[10]:  ../../setup/setting-up-navigation/#back-to-top-button
+  [8]: ../../setup/setting-up-navigation/#anchor-tracking
+  [9]: ../../setup/setting-up-navigation/#sticky-navigation-tabs
+  [10]: ../../setup/setting-up-navigation/#section-index-pages
+  [11]:  ../../setup/setting-up-navigation/#back-to-top-button
 
 ### Search
 
-- #### [Search Suggestions][11]
-- #### [Search Highlighting][12]
-- #### [Search Sharing][13]
+- #### [Search Suggestions][12]
+- #### [Search Highlighting][13]
+- #### [Search Sharing][14]
 
-[11]: ../../setup/setting-up-site-search/#search-suggestions
-[12]: ../../setup/setting-up-site-search/#search-highlighting
-[13]: ../../setup/setting-up-site-search/#search-sharing
+  [12]: ../../setup/setting-up-site-search/#search-suggestions
+  [13]: ../../setup/setting-up-site-search/#search-highlighting
+  [14]: ../../setup/setting-up-site-search/#search-sharing
